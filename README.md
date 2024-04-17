@@ -1,7 +1,3 @@
-Sure, here's a README file for your VaccinationController APIs:
-
----
-
 # Vaccination System APIs
 
 This repository contains the source code for APIs related to a Vaccination System. These APIs are designed to manage citizen registration, vaccination status tracking, and related operations.
